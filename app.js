@@ -8,7 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var helloRouter = require('./routes/hello');
 var notesRouter = require('./routes/notes');
-var catRouter = require('./routes/notes');
+var catRouter = require('./routes/cat');
 
 var app = express();
 
